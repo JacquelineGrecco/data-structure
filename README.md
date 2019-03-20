@@ -8,4 +8,4 @@ This project contains files of various methods encoded in the C language, as req
 
 ### Execution Environment
  
-The recommendation to run the files is to use some IDE such as C ++ DEV, CodeBlocks, or GCC.
+The recommendation to run the files is to use some IDE such as C ++ DEV, CodeBlocks or GCC.
